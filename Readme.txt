@@ -1,1 +1,1 @@
-This is a branch which.
+This is a ReadMe file for the new Git Project
