@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "Hello Varun"
-
-echo "Exiting"
+i=0;
+echo "$i      Value 0 will be printed"
